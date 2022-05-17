@@ -13,3 +13,5 @@
 ![Website image demo](./Image/Search.png?raw=true "Title")
 ![Website image demo](./Image/AddToCart.png?raw=true "Title")
 ![Website image demo](./Image/Cart.png?raw=true "Title")
+![Website image demo](./Image/AdminGames.png?raw=true "Title")
+![Website image demo](./Image/ExportExcel.png?raw=true "Title")
