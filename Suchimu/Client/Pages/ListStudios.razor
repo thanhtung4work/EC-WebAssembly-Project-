@@ -1,0 +1,31 @@
+﻿@inject IStudioService StudioService 
+@page "/studio/all"
+
+<h3>From our studio</h3>
+<div class=""></div>
+<div class="row mb-3">
+    @foreach (var studio in StudioService.Studios)
+    {
+        <NavLink class="col-5 p-1 mt-4" href="@GetUrl(studio.Url)">
+            <div class="btn btn-primary ronunded mx-1">
+                <p style="text-align: center">@studio.Name</p>
+                <img src="@studio.ImageUrl" style="width: 100%" />
+            </div>
+
+        </NavLink>
+        <div class="col-1"></div>
+    }
+</div>
+
+
+@code {
+    protected override async Task OnInitializedAsync()
+    {
+        await StudioService.LoadStudios();
+    }
+
+    private string GetUrl(String url)
+    {
+        return "studio/" + url;
+    }
+}

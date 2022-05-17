@@ -1,0 +1,44 @@
+﻿@page "/game/{id:int}"
+@inject IGameService GameService
+@inject ILocalStorageService LocalStorage
+@inject IToastService ToastService
+@inject ICartService CartService
+
+<div class="row mb-3">
+    <div class="col-md-5 col-sm-12">
+        <h2 class="font-weight-bolder">@game.Title</h2>
+        <img src="@game.ImageUrl" class="img-fluid" />
+    </div>
+    <div class="col-md-7 col-sm-12">
+        <br /><br />
+        <p>Create Time: @game.CreateDate</p>
+        <p>Price: @game.OriginalPrice $</p>
+        <p>New price: <b>@game.Price $</b></p>
+        <button class="btn btn-danger" @onclick="AddToCart"><i class="oi oi-cart"></i>&nbsp;&nbsp;Thêm vào giỏ</button>
+    </div>
+</div>
+<p><h3 class="font-weight-bold">Description</h3> @game.Description</p>
+
+
+
+@code {
+    [Parameter]
+    public int Id { get; set; }
+
+    private Game game = new Game();
+
+    protected override async Task OnParametersSetAsync()
+    {
+        //if(GameService.Games == null || GameService.Games.Count == 0)
+        //{
+        //    GameService.LoadGames();
+        //}
+        GameService.LoadGames();
+        game = await GameService.GetGame(Id);
+    }
+
+    private async Task AddToCart()
+    {
+        await CartService.AddToCart(game);
+    }
+}

@@ -1,0 +1,24 @@
+D:\Projects\Suchimu\Shared\bin\Debug\net5.0\Suchimu.Shared.deps.json
+D:\Projects\Suchimu\Shared\bin\Debug\net5.0\Suchimu.Shared.dll
+D:\Projects\Suchimu\Shared\bin\Debug\net5.0\ref\Suchimu.Shared.dll
+D:\Projects\Suchimu\Shared\bin\Debug\net5.0\Suchimu.Shared.pdb
+D:\Projects\Suchimu\Shared\obj\Debug\net5.0\Suchimu.Shared.csproj.AssemblyReference.cache
+D:\Projects\Suchimu\Shared\obj\Debug\net5.0\Suchimu.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Suchimu\Shared\obj\Debug\net5.0\Suchimu.Shared.AssemblyInfoInputs.cache
+D:\Projects\Suchimu\Shared\obj\Debug\net5.0\Suchimu.Shared.AssemblyInfo.cs
+D:\Projects\Suchimu\Shared\obj\Debug\net5.0\Suchimu.Shared.csproj.CoreCompileInputs.cache
+D:\Projects\Suchimu\Shared\obj\Debug\net5.0\Suchimu.Shared.dll
+D:\Projects\Suchimu\Shared\obj\Debug\net5.0\ref\Suchimu.Shared.dll
+D:\Projects\Suchimu\Shared\obj\Debug\net5.0\Suchimu.Shared.pdb
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Shared\bin\Debug\net5.0\Suchimu.Shared.deps.json
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Shared\bin\Debug\net5.0\Suchimu.Shared.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Shared\bin\Debug\net5.0\ref\Suchimu.Shared.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Shared\bin\Debug\net5.0\Suchimu.Shared.pdb
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Shared\obj\Debug\net5.0\Suchimu.Shared.csproj.AssemblyReference.cache
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Shared\obj\Debug\net5.0\Suchimu.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Shared\obj\Debug\net5.0\Suchimu.Shared.AssemblyInfoInputs.cache
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Shared\obj\Debug\net5.0\Suchimu.Shared.AssemblyInfo.cs
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Shared\obj\Debug\net5.0\Suchimu.Shared.csproj.CoreCompileInputs.cache
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Shared\obj\Debug\net5.0\Suchimu.Shared.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Shared\obj\Debug\net5.0\ref\Suchimu.Shared.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Shared\obj\Debug\net5.0\Suchimu.Shared.pdb

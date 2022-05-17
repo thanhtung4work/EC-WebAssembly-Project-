@@ -1,0 +1,41 @@
+﻿@page "/resgister"
+
+@inject NavigationManager NavigationManager
+
+<h3>Resgister</h3>
+
+<EditForm Model="user" OnSubmit="HandleLogin">
+    <div class="form-group">
+        <label for="name">Name</label>
+        <InputText id="name" @bind-Value="user.Name" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label for="username">Username</label>
+        <InputText id="username" @bind-Value="user.Username" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label for="email">Email</label>
+        <InputText id="email" @bind-Value="user.Email" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label for="phone">Phone number</label>
+        <InputText id="phone" @bind-Value="user.PhoneNumber" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label for="password">Password</label>
+        <InputText id="password" type="password" @bind-Value="user.Password" class="form-control" />
+    </div>
+    <div>
+        <button type="submit" class="btn btn-primary">Đăng kí</button>
+    </div>
+</EditForm>
+
+@code {
+    private UserAccount user = new UserAccount();
+
+    private async void HandleLogin()
+    {
+        Console.WriteLine("Log me in!");
+        NavigationManager.NavigateTo("/login");
+    }
+}

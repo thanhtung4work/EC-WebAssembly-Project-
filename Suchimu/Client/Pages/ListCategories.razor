@@ -1,0 +1,22 @@
+﻿@inject ICategoryService CategoryService
+@page "/categories"
+
+<h3>Categories</h3>
+<div class=""></div>
+<div class="row mb-3">
+    @foreach (var cate in CategoryService.Categories)
+    {
+        <NavLink class="col-3 py-6 mt-4" href="@cate.Url">
+            <div class="btn btn-primary ronunded mx-1">@cate.Name</div>
+        </NavLink>
+    }
+</div>
+
+<ListGames />
+
+@code {      
+    protected override async Task OnInitializedAsync()
+    {
+        await CategoryService.LoadCategories();
+    }
+}

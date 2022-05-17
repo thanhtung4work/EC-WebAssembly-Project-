@@ -1,0 +1,55 @@
+﻿@page "/cart"
+@inject ICartService CartService
+@inject IToastService ToastService
+
+<h3>Cart</h3>
+
+@if (cartItems == null || cartItems.Count <= 0)
+{
+    <p>Giỏ hàng trống.</p>
+}
+else
+{
+    <div>
+        @foreach(var item in cartItems)
+        {
+            <div class="item-container">
+                <div class="item-image-wrapper"><img src="@item.Image" class="item-image"/></div>
+                <div class="item-name">
+                    <h4><a href="/game/@item.GameId">@item.GameTitle</a></h4>
+                    <button class="btn btn-danger" @onclick="@(()=>DeleteItem(item))">Xóa</button>
+                </div>
+                <div class="item-price">@item.Price</div>
+            </div>
+        }
+    </div>
+    <h5 class="item-total-price">
+        <button @onclick="DeleteItemAll">Mua</button>
+        Total (@cartItems.Count): $@cartItems.Sum(item => item.Price);
+    </h5>
+}
+
+@code {
+    List<CartItem> cartItems = new List<CartItem>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        cartItems = await CartService.GetCartItems();
+    }
+
+    private async Task DeleteItemAll()
+    {
+        foreach(var item in cartItems)
+        {
+            await CartService.DeleteItem(item);
+        }
+        ToastService.ShowSuccess("Giao dịch ok ", "Mua hàng thành thụ");
+        cartItems = await CartService.GetCartItems();
+    }
+
+    private async Task DeleteItem(CartItem item)
+    {
+        await CartService.DeleteItem(item);
+        cartItems = await CartService.GetCartItems();
+    }
+}

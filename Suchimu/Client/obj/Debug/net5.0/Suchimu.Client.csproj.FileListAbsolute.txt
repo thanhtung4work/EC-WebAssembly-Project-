@@ -1,0 +1,1338 @@
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\blazor.boot.json
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\Suchimu.Client.StaticWebAssets.xml
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\Suchimu.Client.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\ref\Suchimu.Client.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\Suchimu.Client.pdb
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Suchimu.Client.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Suchimu.Client.pdb
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\blazor.webassembly.js
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\icudt.dat.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.14.js.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Suchimu.Shared.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\icudt.dat
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.14.js
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Suchimu.Shared.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Suchimu.Shared.pdb
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\Suchimu.Client.csproj.AssemblyReference.cache
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\Suchimu.Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\Suchimu.Client.AssemblyInfoInputs.cache
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\Suchimu.Client.AssemblyInfo.cs
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\Suchimu.Client.csproj.CoreCompileInputs.cache
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\Suchimu.Client.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\Suchimu.Client.RazorComponent.input.cache
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\Suchimu.Client.RazorComponent.output.cache
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\RazorDeclaration\Suchimu.Client.dll
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\Suchimu.Client.TagHelpers.input.cache
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\Suchimu.Client.TagHelpers.output.cache
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\Suchimu.Client.RazorCoreGenerate.cache
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\Razor\App.razor.g.cs
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\BHQSvjRY.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\XQ0wFV2q.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\JMvSut2t.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\6LM+lSRy.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\ksfy+HWs.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\stQDFUPk.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\za5DVXAq.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\lTZCbfWI.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\nPf1fCW2.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\KUGlS47o.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\s+UflMGc.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\6fxwH77P.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\8F4SuEuI.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\kv0OeGeR.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\o9W5iHYJ.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\lwUx+iJN.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\wc2iNZDy.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\u0GePSBU.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\IW6ZrHMI.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\u+0WdqlA.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\D6iurzUZ.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\YZkpN5tp.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\Bot28Jql.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\OX1HPhdI.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\n+HMw5Cd.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\VwWfC3AP.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\0zHEIRI3.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\sPyZj1af.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\9B4RjQsD.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\mXSZ17R1.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\3n+dqBKE.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\Mw3AdDJ0.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\1X+d0qzy.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\mZuX+r4s.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\Vr3ukv7e.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\u1Ny2PFK.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\9gSBASIS.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\q9ZK76l+.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\Dif9YYFP.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\1hfOYmG6.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\O+PUNK6b.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\Z4bAaayP.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\x2WPbwIJ.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\vVfP5OM2.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\JdTyF8mI.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\MBmVcS9v.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\CRd6CsaU.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\Qkq+GhP5.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\mWw0zwgX.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\1z5x86sK.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\y5bWNec0.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\ePSyHMXp.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\STnDUFek.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\XcqzxedZ.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\7dCD2RAB.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\Ts7Wn69U.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\xmAgLtci.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\lF+ZoNon.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\5A2OOaM6.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\N2lhl2wq.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\3+2Ewbml.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\ERd+WBj3.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\QNNkfhrm.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\WEjrbQeg.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\BxXV+na4.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\dM1pZURH.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\6a5L9fZM.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\8Hfsq47U.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\93n9qmEc.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\UqNpJYS7.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\Fg8ckZDj.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\QeZZxeDO.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\BQCCZtGc.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\FgeoJNh+.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\bMd+6zPA.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\Lzw4uJiQ.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\ZeGTNTDC.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\smAqz6Tb.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\QJC6I0DU.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\e5pGC1yE.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\OQ+x5S2j.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\iIrTWx7L.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\69qvhHCE.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\2+vhL5+e.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\4ysSaEH6.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\b8nqUETZ.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\xC2oW7zz.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\zgThGee9.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\JGrNOhMq.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\qkO4aolf.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\HhVMu+M6.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\ueBowEUP.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\85DvCyxR.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\qZBk3Bcw.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\Sy9PS8bR.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\Gx4twj2z.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\dww5wGID.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\h0+Wx4Zi.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\LddUGSgh.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\j5JMwJKu.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\gI5n6EWL.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\zSP3mJW4.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\gl05NRH0.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\hu41u9Za.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\3njx3lfi.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\rjuhNOUc.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\JnXckv2Q.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\Fsk8kWjc.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\kMLXI+BH.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\Yfq003SX.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\XDbaKyOR.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\9wAF71b1.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\pKjQZBYE.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\KP0OxpTn.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\BCqQtzvU.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\7sLupcwY.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\SWmGYQL2.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\3Bb+xY38.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\34jeDE45.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\CzlCyWHx.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\VG1RGPUX.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\Cj4UnGGM.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\KT1HfmXp.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\6eHiTv8L.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\XUNyWHHn.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\+AUtyjfP.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\21RQRYWl.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\OMCQsfBr.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\cpW+sDzy.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\Gh5ShIDW.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\l1nkM+Wc.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\V5FmyIKw.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\NfCVOXZ7.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\8QZsWfsu.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\L4Mu87FU.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\b1Uc+9KH.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\NBF+kbwS.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\UnWAZWEd.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\Uk0weld2.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\8IZTsFK2.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\S4yhg9ey.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\5ceuPuud.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\707WhkpB.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\65VylVa+.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\xkbNrIIF.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\PVqFM8d1.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\hLou7V87.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\ij6yB8F8.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\mhnpB16B.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\oweSx0Ek.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\BdCqGSFe.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\7SReJo9n.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\xyLlZTVR.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\cDZ1zWyj.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\VjlxnFab.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\M6Pbj3cB.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\BVeuGcEz.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\R0URR9y2.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\glIBo27G.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\6G+WKcde.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\3WW7Q4wg.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\byRIX9mH.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\RKQ6vPOW.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\E9T8CgA3.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\3wlnYOru.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\bmr+tlf4.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\qJdyltpt.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\uvHfV2EP.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\KUoDx1PS.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\3S5PCk1u.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\pA+f+in5.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\19hfecB+.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\m2sMA7k3.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\iAQeEAGx.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\U2kzNBQi.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\aHrNH84V.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\QzUTPb+W.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\OtkKTDjr.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\cfdSncUo.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\oJxWVfUx.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\N2agMgll.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\UqLXAlqD.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\1om42RCz.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\eKHPECra.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\KHuwsYQd.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\Vp5AC6nt.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\30v1JCX2.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\uYPUKQdD.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\Z+RUuvrl.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\t09dAFtg.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\vI56s0GK.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\NASjCRNq.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\wj9zUry7.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\staticwebassets\Suchimu.Client.StaticWebAssets.Manifest.cache
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\staticwebassets\Suchimu.Client.StaticWebAssets.xml
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\scopedcss\bundle\Suchimu.Client.styles.css
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\scopedcss\projectbundle\Suchimu.Client.bundle.scp.css
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\Suchimu.Client.RazorTargetAssemblyInfo.cache
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\Suchimu.Client.csproj.CopyComplete
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\Suchimu.Client.dll
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\ref\Suchimu.Client.dll
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\Suchimu.Client.pdb
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\RazorDeclaration\Pages\ListGames.razor.g.cs
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\Razor\Pages\ListGames.razor.g.cs
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\RazorDeclaration\Pages\GameDetails.razor.g.cs
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\Razor\Pages\GameDetails.razor.g.cs
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\RazorDeclaration\Pages\ListCategories.razor.g.cs
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\Razor\Pages\ListCategories.razor.g.cs
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\RazorDeclaration\Pages\ListStudios.razor.g.cs
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\Razor\Pages\ListStudios.razor.g.cs
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\RazorDeclaration\Pages\ListGameOfCategory.razor.g.cs
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\Razor\Pages\ListGameOfCategory.razor.g.cs
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\RazorDeclaration\Pages\ListGamesOfStudio.razor.g.cs
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\Razor\Pages\ListGamesOfStudio.razor.g.cs
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Blazored.LocalStorage.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Blazored.Toast.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Blazored.LocalStorage.dll
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Blazored.Toast.dll
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\B5kid0Kr.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\JH0VTilN.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\RazorDeclaration\Shared\TopMenu.razor.g.cs
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\Razor\Shared\TopMenu.razor.g.cs
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Cart.razor.g.cs
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\Razor\Pages\Cart.razor.g.cs
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\scopedcss\Pages\Cart.razor.rz.scp.css
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Login.razor.g.cs
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\Razor\Pages\Login.razor.g.cs
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Authorization.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Authorization.dll
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\nLMuDRaj.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\c16RgJ74.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\bRQmQk01.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\lRgVNjNP.gz
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Resgister.razor.g.cs
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\Razor\Pages\Resgister.razor.g.cs
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Blazored.Typeahead.dll.gz
+D:\Projects\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Blazored.Typeahead.dll
+D:\Projects\Suchimu\Client\obj\Debug\net5.0\build-gz\ZfUzktTZ.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\blazor.boot.json
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\Suchimu.Client.StaticWebAssets.xml
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\Suchimu.Client.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\ref\Suchimu.Client.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\Suchimu.Client.pdb
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Suchimu.Client.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Suchimu.Client.pdb
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\blazor.webassembly.js
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Blazored.LocalStorage.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Blazored.Toast.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Blazored.Typeahead.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Authorization.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\icudt.dat.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.14.js.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Suchimu.Shared.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Blazored.LocalStorage.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Blazored.Toast.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Blazored.Typeahead.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Authorization.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\icudt.dat
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.14.js
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Suchimu.Shared.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\bin\Debug\net5.0\wwwroot\_framework\Suchimu.Shared.pdb
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\Suchimu.Client.csproj.AssemblyReference.cache
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\Suchimu.Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\Suchimu.Client.AssemblyInfoInputs.cache
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\Suchimu.Client.AssemblyInfo.cs
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\Suchimu.Client.csproj.CoreCompileInputs.cache
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\Suchimu.Client.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\Suchimu.Client.RazorComponent.input.cache
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\RazorDeclaration\Pages\GameDetails.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\RazorDeclaration\Pages\ListCategories.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\RazorDeclaration\Pages\ListGameOfCategory.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\RazorDeclaration\Pages\ListGames.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\RazorDeclaration\Pages\ListGamesOfStudio.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\RazorDeclaration\Pages\ListStudios.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Login.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Resgister.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\RazorDeclaration\Shared\TopMenu.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Cart.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\Suchimu.Client.RazorComponent.output.cache
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\RazorDeclaration\Suchimu.Client.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\Suchimu.Client.TagHelpers.input.cache
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\Suchimu.Client.TagHelpers.output.cache
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\Suchimu.Client.RazorCoreGenerate.cache
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\Razor\App.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\Razor\Pages\GameDetails.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\Razor\Pages\ListCategories.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\Razor\Pages\ListGameOfCategory.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\Razor\Pages\ListGames.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\Razor\Pages\ListGamesOfStudio.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\Razor\Pages\ListStudios.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\Razor\Pages\Login.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\Razor\Pages\Resgister.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\Razor\Shared\TopMenu.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\Razor\Pages\Cart.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\B5kid0Kr.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\JH0VTilN.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\ZfUzktTZ.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\nLMuDRaj.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\c16RgJ74.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\bRQmQk01.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\BHQSvjRY.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\XQ0wFV2q.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\JMvSut2t.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\lRgVNjNP.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\6LM+lSRy.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\ksfy+HWs.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\stQDFUPk.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\za5DVXAq.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\lTZCbfWI.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\nPf1fCW2.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\KUGlS47o.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\s+UflMGc.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\6fxwH77P.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\8F4SuEuI.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\kv0OeGeR.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\o9W5iHYJ.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\lwUx+iJN.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\wc2iNZDy.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\u0GePSBU.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\IW6ZrHMI.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\u+0WdqlA.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\D6iurzUZ.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\YZkpN5tp.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\Bot28Jql.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\OX1HPhdI.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\n+HMw5Cd.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\VwWfC3AP.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\0zHEIRI3.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\sPyZj1af.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\9B4RjQsD.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\mXSZ17R1.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\3n+dqBKE.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\Mw3AdDJ0.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\1X+d0qzy.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\mZuX+r4s.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\Vr3ukv7e.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\u1Ny2PFK.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\9gSBASIS.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\q9ZK76l+.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\Dif9YYFP.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\1hfOYmG6.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\O+PUNK6b.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\Z4bAaayP.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\x2WPbwIJ.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\vVfP5OM2.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\JdTyF8mI.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\MBmVcS9v.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\CRd6CsaU.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\Qkq+GhP5.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\mWw0zwgX.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\1z5x86sK.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\y5bWNec0.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\ePSyHMXp.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\STnDUFek.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\XcqzxedZ.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\7dCD2RAB.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\Ts7Wn69U.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\xmAgLtci.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\lF+ZoNon.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\5A2OOaM6.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\N2lhl2wq.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\3+2Ewbml.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\ERd+WBj3.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\QNNkfhrm.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\WEjrbQeg.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\BxXV+na4.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\dM1pZURH.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\6a5L9fZM.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\8Hfsq47U.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\93n9qmEc.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\UqNpJYS7.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\Fg8ckZDj.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\QeZZxeDO.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\BQCCZtGc.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\FgeoJNh+.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\bMd+6zPA.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\Lzw4uJiQ.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\ZeGTNTDC.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\smAqz6Tb.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\QJC6I0DU.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\e5pGC1yE.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\OQ+x5S2j.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\iIrTWx7L.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\69qvhHCE.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\2+vhL5+e.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\4ysSaEH6.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\b8nqUETZ.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\xC2oW7zz.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\zgThGee9.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\JGrNOhMq.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\qkO4aolf.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\HhVMu+M6.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\ueBowEUP.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\85DvCyxR.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\qZBk3Bcw.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\Sy9PS8bR.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\Gx4twj2z.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\dww5wGID.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\h0+Wx4Zi.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\LddUGSgh.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\j5JMwJKu.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\gI5n6EWL.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\zSP3mJW4.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\gl05NRH0.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\hu41u9Za.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\3njx3lfi.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\rjuhNOUc.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\JnXckv2Q.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\Fsk8kWjc.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\kMLXI+BH.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\Yfq003SX.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\XDbaKyOR.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\9wAF71b1.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\pKjQZBYE.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\KP0OxpTn.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\BCqQtzvU.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\7sLupcwY.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\SWmGYQL2.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\3Bb+xY38.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\34jeDE45.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\CzlCyWHx.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\VG1RGPUX.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\Cj4UnGGM.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\KT1HfmXp.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\6eHiTv8L.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\XUNyWHHn.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\+AUtyjfP.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\21RQRYWl.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\OMCQsfBr.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\cpW+sDzy.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\Gh5ShIDW.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\l1nkM+Wc.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\V5FmyIKw.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\NfCVOXZ7.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\8QZsWfsu.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\L4Mu87FU.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\b1Uc+9KH.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\NBF+kbwS.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\UnWAZWEd.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\Uk0weld2.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\8IZTsFK2.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\S4yhg9ey.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\5ceuPuud.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\707WhkpB.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\65VylVa+.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\xkbNrIIF.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\PVqFM8d1.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\hLou7V87.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\ij6yB8F8.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\mhnpB16B.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\oweSx0Ek.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\BdCqGSFe.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\7SReJo9n.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\xyLlZTVR.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\cDZ1zWyj.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\VjlxnFab.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\M6Pbj3cB.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\BVeuGcEz.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\R0URR9y2.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\glIBo27G.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\6G+WKcde.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\3WW7Q4wg.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\byRIX9mH.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\RKQ6vPOW.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\E9T8CgA3.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\3wlnYOru.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\bmr+tlf4.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\qJdyltpt.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\uvHfV2EP.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\KUoDx1PS.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\3S5PCk1u.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\pA+f+in5.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\19hfecB+.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\m2sMA7k3.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\iAQeEAGx.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\U2kzNBQi.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\aHrNH84V.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\QzUTPb+W.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\OtkKTDjr.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\cfdSncUo.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\oJxWVfUx.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\N2agMgll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\UqLXAlqD.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\1om42RCz.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\eKHPECra.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\KHuwsYQd.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\Vp5AC6nt.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\30v1JCX2.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\uYPUKQdD.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\Z+RUuvrl.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\t09dAFtg.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\vI56s0GK.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\q+vP8qAA.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\build-gz\Jd1MG6tf.gz
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\staticwebassets\Suchimu.Client.StaticWebAssets.Manifest.cache
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\staticwebassets\Suchimu.Client.StaticWebAssets.xml
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\scopedcss\Pages\Cart.razor.rz.scp.css
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\scopedcss\bundle\Suchimu.Client.styles.css
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\scopedcss\projectbundle\Suchimu.Client.bundle.scp.css
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\Suchimu.Client.RazorTargetAssemblyInfo.cache
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\Suchimu.Client.csproj.CopyComplete
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\Suchimu.Client.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\ref\Suchimu.Client.dll
+D:\Projects\Suchimu Blazor WebAssembly\Suchimu\Client\obj\Debug\net5.0\Suchimu.Client.pdb

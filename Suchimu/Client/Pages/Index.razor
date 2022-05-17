@@ -1,0 +1,44 @@
+﻿@page "/"
+@page "/{categoryUrl}"
+
+@inject ICategoryService CategoryService;
+@inject IGameService GameService
+@inject ISyncLocalStorageService LocalStorage
+
+@if (category != null)
+{
+    <h1>Welcome to @category.Name section!</h1>
+    <ListGames />
+}
+else
+{
+    <AuthorizeView>
+        <NotAuthorized>
+            <h1>Suchimu says hi!</h1>
+        </NotAuthorized>
+        <Authorized>
+            <h1>Welcome back, @LocalStorage.GetItemAsString("username")!</h1>
+        </Authorized>
+    </AuthorizeView>
+    <ListGames />
+}
+
+
+@code
+{
+    [Parameter]
+    public string CategoryUrl { get; set; }
+
+    private Category category = null;
+
+    protected override async Task OnParametersSetAsync()
+    {
+        await GameService.LoadGames(CategoryUrl);
+
+        if (CategoryUrl != null)
+        {
+            category = CategoryService.Categories.FirstOrDefault(c => c.Url.ToLower().Equals(CategoryUrl.ToLower()));
+        }
+
+    }
+}

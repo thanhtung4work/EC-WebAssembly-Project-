@@ -1,0 +1,46 @@
+﻿@inject IGameService GameService
+@inject ICategoryService CategoryService
+
+@implements IDisposable
+
+<h3>Games</h3>
+<ul class="list-unstyled row mx-1">
+
+    @foreach (var myGame in GameService.Games)
+    {
+        <li class="media mt-3 col-md-6 col-sm-12 hoverable-img">
+            <div class="">
+                <a href="/game/@myGame.Id">
+                    <img class="img-thumbnail" style="width: 200px;" src=@myGame.ImageUrl alt="@myGame.Title">
+                </a>
+            </div>
+            <div class="media-body ml-3">
+                <a href="/game/@myGame.Id">
+                    <h4>@myGame.Title</h4>
+                </a>
+                <p>@myGame.ShortDescription</p>
+                <p>@myGame.Description.Substring(0, 15) ...</p>
+                <p>@myGame.OriginalPrice đ</p>
+                <h3>@myGame.Price đ</h3>
+            </div>
+        </li>
+    }
+</ul>
+
+@code {
+    // [Parameter]
+    // public string CategoryUrl { get; set; } = null;
+
+    // private Category category { get; set; } = null;
+
+    protected override void OnInitialized()
+    {
+        // await GameService.LoadGames();
+        GameService.OnChange += StateHasChanged;
+    }
+
+    public void Dispose()
+    {
+        GameService.OnChange -= StateHasChanged;
+    }
+}

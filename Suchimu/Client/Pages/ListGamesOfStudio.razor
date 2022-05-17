@@ -1,0 +1,37 @@
+﻿
+@page "/studio/{studioUrl}"
+
+@inject IGameService GameService;
+@inject IStudioService StudioService
+
+@if (studio != null)
+{
+    <h1>Welcome to @studio.Name section!</h1>
+    <ListGames />
+}
+else
+{
+    <h1>Welcome to Game section!</h1>
+    <ListGames />
+}
+
+
+@code
+{
+    [Parameter]
+    public string StudioUrl { get; set; }
+
+    private Studio studio = null;
+
+    protected override async Task OnParametersSetAsync()
+    {
+        await StudioService.LoadStudios();
+        await GameService.LoadGameByStudio(StudioUrl);
+
+        if (StudioUrl != null)
+        {
+            studio = StudioService.Studios.FirstOrDefault(c => c.Url.ToLower().Equals(StudioUrl.ToLower()));
+        }
+    }
+
+}

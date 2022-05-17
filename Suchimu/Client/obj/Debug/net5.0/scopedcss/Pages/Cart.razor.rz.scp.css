@@ -1,0 +1,30 @@
+.item-container[b-lnlx6rw7se] {
+    display: flex;
+    padding: 6px;
+}
+
+.item-image-wrapper[b-lnlx6rw7se]{
+    width: 150px;
+    text-align: center;
+}
+
+.item-image[b-lnlx6rw7se]{
+    max-height: 150px;
+    max-width: 150px;
+    padding: 6px;
+}
+
+.item-name[b-lnlx6rw7se]{
+    flex-grow: 1;
+    padding: 6px;
+}
+
+.item-price[b-lnlx6rw7se]{
+    font-weight: 600;
+    text-align: right;
+}
+
+.item-total-price[b-lnlx6rw7se] {
+    font-weight: 700;
+    text-align: right;
+}

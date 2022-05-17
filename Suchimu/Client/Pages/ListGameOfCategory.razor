@@ -1,0 +1,22 @@
+﻿
+@page "/category/{CategoryUrl}"
+
+@inject ICategoryService CategoryService
+@inject IGameService GameService
+
+<ListGames />
+
+@code {
+    [Parameter]
+    public string? CategoryUrl { get; set; } = null;
+    private Category category = null;
+
+    protected override async Task OnParametersSetAsync()
+    {
+        if (CategoryUrl != null)
+        {
+            category = CategoryService.Categories.FirstOrDefault(cat => cat.Url.Equals(CategoryUrl));
+        }
+    }
+
+}
