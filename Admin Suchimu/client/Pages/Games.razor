@@ -1,0 +1,69 @@
+﻿@page "/games"
+@layout MainLayout
+@inherits Admin.Pages.GamesComponent
+
+@using Radzen
+@using Radzen.Blazor
+@using Admin.Models.Suchimnu
+<RadzenContent Container="main">
+  <ChildContent>
+    <RadzenHeading Size="H1" Text="Games">
+    </RadzenHeading>
+    <div class="row">
+      <div class="col-md-12">
+        <RadzenButton Icon="add_circle_outline" style="margin-bottom: 10px" Text="Add" Click="@Button0Click">
+        </RadzenButton>
+        <RadzenSplitButton Icon="get_app" style="margin-left: 10px; margin-bottom: 10px" Text="Export" Click="@Splitbutton0Click">
+          <ChildContent>
+            <RadzenSplitButtonItem Text="Excel" Value="xlsx">
+            </RadzenSplitButtonItem>
+            <RadzenSplitButtonItem Text="CSV" Value="csv">
+            </RadzenSplitButtonItem>
+          </ChildContent>
+        </RadzenSplitButton>
+        <RadzenTextBox Placeholder="Search ..." style="display: block; margin-bottom: 10px; width: 100%" Name="Textbox0" @oninput="@(async(args) => {search = $"{args.Value}";await grid0.GoToPage(0);await grid0.Reload();})">
+        </RadzenTextBox>
+        <RadzenDataGrid @ref="grid0" AllowFiltering="true" FilterMode="Radzen.FilterMode.Advanced" AllowPaging="true" AllowSorting="true" Data="@getGamesResult" Count="@getGamesCount" TItem="Admin.Models.Suchimnu.Game" LoadData="@Grid0LoadData" RowDoubleClick="@Grid0RowDoubleClick">
+          <Columns>
+            <RadzenDataGridColumn TItem="Admin.Models.Suchimnu.Game" Property="Id" Title="Id">
+            </RadzenDataGridColumn>
+            <RadzenDataGridColumn TItem="Admin.Models.Suchimnu.Game" Property="Title" Title="Title">
+            </RadzenDataGridColumn>
+            <RadzenDataGridColumn TItem="Admin.Models.Suchimnu.Game" Property="Description" Title="Description">
+            </RadzenDataGridColumn>
+            <RadzenDataGridColumn TItem="Admin.Models.Suchimnu.Game" Property="ShortDescription" Title="Short Description">
+            </RadzenDataGridColumn>
+            <RadzenDataGridColumn TItem="Admin.Models.Suchimnu.Game" Property="ImageUrl" Title="Image Url">
+            </RadzenDataGridColumn>
+            <RadzenDataGridColumn TItem="Admin.Models.Suchimnu.Game" Property="Price" Title="Price">
+            </RadzenDataGridColumn>
+            <RadzenDataGridColumn TItem="Admin.Models.Suchimnu.Game" Property="OriginalPrice" Title="Original Price">
+            </RadzenDataGridColumn>
+            <RadzenDataGridColumn TItem="Admin.Models.Suchimnu.Game" Property="IsActive" Title="Is Active">
+            </RadzenDataGridColumn>
+            <RadzenDataGridColumn TItem="Admin.Models.Suchimnu.Game" Property="CategoryId" SortProperty="Category.Name" GroupProperty="Category.Name" FilterProperty="Category.Name" Title="Category">
+              <Template Context="data">
+              @(data.Category?.Name)
+              </Template>
+            </RadzenDataGridColumn>
+            <RadzenDataGridColumn TItem="Admin.Models.Suchimnu.Game" Property="StudioId" SortProperty="Studio.Name" GroupProperty="Studio.Name" FilterProperty="Studio.Name" Title="Studio">
+              <Template Context="data">
+              @(data.Studio?.Name)
+              </Template>
+            </RadzenDataGridColumn>
+            <RadzenDataGridColumn TItem="Admin.Models.Suchimnu.Game" Property="CreateDate" FormatString="{0:dd/MM/yyyy}" Title="Create Date">
+            </RadzenDataGridColumn>
+            <RadzenDataGridColumn TItem="Admin.Models.Suchimnu.Game" Property="LatestUpdate" FormatString="{0:dd/MM/yyyy}" Title="Latest Update">
+            </RadzenDataGridColumn>
+            <RadzenDataGridColumn TItem="Admin.Models.Suchimnu.Game" Filterable="false" Sortable="false" Width="70px" TextAlign="TextAlign.Center">
+              <Template Context="adminModelsSuchimnuGame">
+                <RadzenButton ButtonStyle="ButtonStyle.Danger" Icon="close" Size="ButtonSize.Small" Click="@((args) =>GridDeleteButtonClick(args, adminModelsSuchimnuGame))" @onclick:stopPropagation="true">
+                </RadzenButton>
+              </Template>
+            </RadzenDataGridColumn>
+          </Columns>
+        </RadzenDataGrid>
+      </div>
+    </div>
+  </ChildContent>
+</RadzenContent>

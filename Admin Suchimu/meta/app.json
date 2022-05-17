@@ -1,0 +1,39 @@
+{
+  "dataSources": [
+    "suchimnu"
+  ],
+  "generator": "@radzen/blazor-server",
+  "https": false,
+  "layouts": [
+    "Login",
+    "Main"
+  ],
+  "logo": "",
+  "name": "admin",
+  "navigation": [
+    "Categories",
+    "Games",
+    "Stats",
+    "Studios"
+  ],
+  "pages": [
+    "Categories",
+    "Add Category",
+    "Edit Category",
+    "Games",
+    "Add Game",
+    "Edit Game",
+    "Stats",
+    "Add Stat",
+    "Edit Stat",
+    "Studios",
+    "Add Studio",
+    "Edit Studio"
+  ],
+  "serverLang": "cs",
+  "serverProject": true,
+  "serverVersion": "5",
+  "startPage": "Categories",
+  "theme": "standard",
+  "wasm": true
+}

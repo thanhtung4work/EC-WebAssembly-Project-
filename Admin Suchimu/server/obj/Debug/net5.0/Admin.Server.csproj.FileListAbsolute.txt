@@ -1,0 +1,288 @@
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\Admin.Client.StaticWebAssets.xml
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\web.config
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\appsettings.json
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\appsettings.Production.json
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.dll
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\Admin.Server.StaticWebAssets.xml
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\Admin.Server.exe
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\Admin.Server.deps.json
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\Admin.Server.runtimeconfig.json
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\Admin.Server.runtimeconfig.dev.json
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\Admin.Server.dll
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\Admin.Server.pdb
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\Admin.Server.Views.dll
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\Admin.Server.Views.pdb
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\DocumentFormat.OpenXml.dll
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\Humanizer.dll
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\Microsoft.AspNetCore.OData.dll
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\Microsoft.OData.Core.dll
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\Microsoft.OData.Edm.dll
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\Microsoft.Spatial.dll
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\Radzen.Blazor.dll
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\System.IO.Packaging.dll
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\System.Linq.Dynamic.Core.dll
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\Admin.Client.dll
+C:\Users\hieu0\Desktop\admin_EC\server\bin\Debug\net5.0\Admin.Client.pdb
+C:\Users\hieu0\Desktop\admin_EC\server\obj\Debug\net5.0\Admin.Server.csproj.AssemblyReference.cache
+C:\Users\hieu0\Desktop\admin_EC\server\obj\Debug\net5.0\Admin.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hieu0\Desktop\admin_EC\server\obj\Debug\net5.0\Admin.Server.AssemblyInfoInputs.cache
+C:\Users\hieu0\Desktop\admin_EC\server\obj\Debug\net5.0\Admin.Server.AssemblyInfo.cs
+C:\Users\hieu0\Desktop\admin_EC\server\obj\Debug\net5.0\Admin.Server.csproj.CoreCompileInputs.cache
+C:\Users\hieu0\Desktop\admin_EC\server\obj\Debug\net5.0\Admin.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hieu0\Desktop\admin_EC\server\obj\Debug\net5.0\Admin.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hieu0\Desktop\admin_EC\server\obj\Debug\net5.0\Admin.Server.RazorAssemblyInfo.cache
+C:\Users\hieu0\Desktop\admin_EC\server\obj\Debug\net5.0\Admin.Server.RazorAssemblyInfo.cs
+C:\Users\hieu0\Desktop\admin_EC\server\obj\Debug\net5.0\scopedcss\bundle\Admin.Server.styles.css
+C:\Users\hieu0\Desktop\admin_EC\server\obj\Debug\net5.0\staticwebassets\Admin.Server.StaticWebAssets.Manifest.cache
+C:\Users\hieu0\Desktop\admin_EC\server\obj\Debug\net5.0\staticwebassets\Admin.Server.StaticWebAssets.xml
+C:\Users\hieu0\Desktop\admin_EC\server\obj\Debug\net5.0\Admin.Server.TagHelpers.input.cache
+C:\Users\hieu0\Desktop\admin_EC\server\obj\Debug\net5.0\Admin.Server.TagHelpers.output.cache
+C:\Users\hieu0\Desktop\admin_EC\server\obj\Debug\net5.0\Admin.Server.RazorCoreGenerate.cache
+C:\Users\hieu0\Desktop\admin_EC\server\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\hieu0\Desktop\admin_EC\server\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\hieu0\Desktop\admin_EC\server\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\hieu0\Desktop\admin_EC\server\obj\Debug\net5.0\Admin.Server.RazorTargetAssemblyInfo.cache
+C:\Users\hieu0\Desktop\admin_EC\server\obj\Debug\net5.0\Admin.Server.RazorTargetAssemblyInfo.cs
+C:\Users\hieu0\Desktop\admin_EC\server\obj\Debug\net5.0\Admin.Server.Views.pdb
+C:\Users\hieu0\Desktop\admin_EC\server\obj\Debug\net5.0\Admin.Server.csproj.CopyComplete
+C:\Users\hieu0\Desktop\admin_EC\server\obj\Debug\net5.0\Admin.Server.dll
+C:\Users\hieu0\Desktop\admin_EC\server\obj\Debug\net5.0\refint\Admin.Server.dll
+C:\Users\hieu0\Desktop\admin_EC\server\obj\Debug\net5.0\Admin.Server.pdb
+C:\Users\hieu0\Desktop\admin_EC\server\obj\Debug\net5.0\Admin.Server.genruntimeconfig.cache
+C:\Users\hieu0\Desktop\admin_EC\server\obj\Debug\net5.0\ref\Admin.Server.dll
+D:\Projects\admin_EC\server\bin\Debug\net5.0\web.config
+D:\Projects\admin_EC\server\bin\Debug\net5.0\appsettings.Development.json
+D:\Projects\admin_EC\server\bin\Debug\net5.0\appsettings.Production.json
+D:\Projects\admin_EC\server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.dll
+D:\Projects\admin_EC\server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+D:\Projects\admin_EC\server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugProxy.dll
+D:\Projects\admin_EC\server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\admin_EC\server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+D:\Projects\admin_EC\server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.dll
+D:\Projects\admin_EC\server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+D:\Projects\admin_EC\server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+D:\Projects\admin_EC\server\bin\Debug\net5.0\BlazorDebugProxy\Newtonsoft.Json.dll
+D:\Projects\admin_EC\server\bin\Debug\net5.0\Admin.Client.StaticWebAssets.xml
+D:\Projects\admin_EC\server\bin\Debug\net5.0\appsettings.json
+D:\Projects\admin_EC\server\bin\Debug\net5.0\Admin.Server.StaticWebAssets.xml
+D:\Projects\admin_EC\server\bin\Debug\net5.0\Admin.Server.exe
+D:\Projects\admin_EC\server\bin\Debug\net5.0\Admin.Server.deps.json
+D:\Projects\admin_EC\server\bin\Debug\net5.0\Admin.Server.runtimeconfig.json
+D:\Projects\admin_EC\server\bin\Debug\net5.0\Admin.Server.runtimeconfig.dev.json
+D:\Projects\admin_EC\server\bin\Debug\net5.0\Admin.Server.dll
+D:\Projects\admin_EC\server\bin\Debug\net5.0\ref\Admin.Server.dll
+D:\Projects\admin_EC\server\bin\Debug\net5.0\Admin.Server.pdb
+D:\Projects\admin_EC\server\bin\Debug\net5.0\Admin.Server.Views.dll
+D:\Projects\admin_EC\server\bin\Debug\net5.0\Admin.Server.Views.pdb
+D:\Projects\admin_EC\server\bin\Debug\net5.0\DocumentFormat.OpenXml.dll
+D:\Projects\admin_EC\server\bin\Debug\net5.0\Humanizer.dll
+D:\Projects\admin_EC\server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\Projects\admin_EC\server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+D:\Projects\admin_EC\server\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Projects\admin_EC\server\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Projects\admin_EC\server\bin\Debug\net5.0\Microsoft.AspNetCore.OData.dll
+D:\Projects\admin_EC\server\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Projects\admin_EC\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Projects\admin_EC\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\admin_EC\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects\admin_EC\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\admin_EC\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects\admin_EC\server\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\admin_EC\server\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Projects\admin_EC\server\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\admin_EC\server\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Projects\admin_EC\server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\admin_EC\server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\admin_EC\server\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\admin_EC\server\bin\Debug\net5.0\Microsoft.JSInterop.WebAssembly.dll
+D:\Projects\admin_EC\server\bin\Debug\net5.0\Microsoft.OData.Core.dll
+D:\Projects\admin_EC\server\bin\Debug\net5.0\Microsoft.OData.Edm.dll
+D:\Projects\admin_EC\server\bin\Debug\net5.0\Microsoft.Spatial.dll
+D:\Projects\admin_EC\server\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Projects\admin_EC\server\bin\Debug\net5.0\Radzen.Blazor.dll
+D:\Projects\admin_EC\server\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Projects\admin_EC\server\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\admin_EC\server\bin\Debug\net5.0\System.IO.Packaging.dll
+D:\Projects\admin_EC\server\bin\Debug\net5.0\System.Linq.Dynamic.Core.dll
+D:\Projects\admin_EC\server\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Projects\admin_EC\server\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\admin_EC\server\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\admin_EC\server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\admin_EC\server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\admin_EC\server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\admin_EC\server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\admin_EC\server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\admin_EC\server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\admin_EC\server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\admin_EC\server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\admin_EC\server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\admin_EC\server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Projects\admin_EC\server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\admin_EC\server\bin\Debug\net5.0\Admin.Client.dll
+D:\Projects\admin_EC\server\bin\Debug\net5.0\Admin.Client.pdb
+D:\Projects\admin_EC\server\obj\Debug\net5.0\Admin.Server.csproj.AssemblyReference.cache
+D:\Projects\admin_EC\server\obj\Debug\net5.0\Admin.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\admin_EC\server\obj\Debug\net5.0\Admin.Server.AssemblyInfoInputs.cache
+D:\Projects\admin_EC\server\obj\Debug\net5.0\Admin.Server.AssemblyInfo.cs
+D:\Projects\admin_EC\server\obj\Debug\net5.0\Admin.Server.csproj.CoreCompileInputs.cache
+D:\Projects\admin_EC\server\obj\Debug\net5.0\Admin.Server.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\admin_EC\server\obj\Debug\net5.0\Admin.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\admin_EC\server\obj\Debug\net5.0\Admin.Server.RazorAssemblyInfo.cache
+D:\Projects\admin_EC\server\obj\Debug\net5.0\Admin.Server.RazorAssemblyInfo.cs
+D:\Projects\admin_EC\server\obj\Debug\net5.0\staticwebassets\Admin.Server.StaticWebAssets.Manifest.cache
+D:\Projects\admin_EC\server\obj\Debug\net5.0\staticwebassets\Admin.Server.StaticWebAssets.xml
+D:\Projects\admin_EC\server\obj\Debug\net5.0\scopedcss\bundle\Admin.Server.styles.css
+D:\Projects\admin_EC\server\obj\Debug\net5.0\Admin.Server.TagHelpers.input.cache
+D:\Projects\admin_EC\server\obj\Debug\net5.0\Admin.Server.TagHelpers.output.cache
+D:\Projects\admin_EC\server\obj\Debug\net5.0\Admin.Server.RazorCoreGenerate.cache
+D:\Projects\admin_EC\server\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\Projects\admin_EC\server\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Projects\admin_EC\server\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Projects\admin_EC\server\obj\Debug\net5.0\Admin.Server.RazorTargetAssemblyInfo.cache
+D:\Projects\admin_EC\server\obj\Debug\net5.0\Admin.Server.RazorTargetAssemblyInfo.cs
+D:\Projects\admin_EC\server\obj\Debug\net5.0\Admin.Server.Views.pdb
+D:\Projects\admin_EC\server\obj\Debug\net5.0\Admin.Server.csproj.CopyComplete
+D:\Projects\admin_EC\server\obj\Debug\net5.0\Admin.Server.dll
+D:\Projects\admin_EC\server\obj\Debug\net5.0\ref\Admin.Server.dll
+D:\Projects\admin_EC\server\obj\Debug\net5.0\Admin.Server.pdb
+D:\Projects\admin_EC\server\obj\Debug\net5.0\Admin.Server.genruntimeconfig.cache
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\web.config
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\appsettings.Development.json
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\appsettings.json
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\appsettings.Production.json
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugProxy.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\BlazorDebugProxy\Newtonsoft.Json.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\Admin.Client.StaticWebAssets.xml
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\Admin.Server.StaticWebAssets.xml
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\Admin.Server.exe
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\Admin.Server.deps.json
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\Admin.Server.runtimeconfig.json
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\Admin.Server.runtimeconfig.dev.json
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\Admin.Server.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\ref\Admin.Server.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\Admin.Server.pdb
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\Admin.Server.Views.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\Admin.Server.Views.pdb
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\DocumentFormat.OpenXml.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\Humanizer.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\Microsoft.AspNetCore.OData.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\Microsoft.JSInterop.WebAssembly.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\Microsoft.OData.Core.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\Microsoft.OData.Edm.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\Microsoft.Spatial.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\Radzen.Blazor.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\System.IO.Packaging.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\System.Linq.Dynamic.Core.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\Admin.Client.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\bin\Debug\net5.0\Admin.Client.pdb
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\obj\Debug\net5.0\Admin.Server.csproj.AssemblyReference.cache
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\obj\Debug\net5.0\Admin.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\obj\Debug\net5.0\Admin.Server.AssemblyInfoInputs.cache
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\obj\Debug\net5.0\Admin.Server.AssemblyInfo.cs
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\obj\Debug\net5.0\Admin.Server.csproj.CoreCompileInputs.cache
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\obj\Debug\net5.0\Admin.Server.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\obj\Debug\net5.0\Admin.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\obj\Debug\net5.0\Admin.Server.RazorAssemblyInfo.cache
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\obj\Debug\net5.0\Admin.Server.RazorAssemblyInfo.cs
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\obj\Debug\net5.0\staticwebassets\Admin.Server.StaticWebAssets.Manifest.cache
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\obj\Debug\net5.0\staticwebassets\Admin.Server.StaticWebAssets.xml
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\obj\Debug\net5.0\scopedcss\bundle\Admin.Server.styles.css
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\obj\Debug\net5.0\Admin.Server.TagHelpers.input.cache
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\obj\Debug\net5.0\Admin.Server.TagHelpers.output.cache
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\obj\Debug\net5.0\Admin.Server.RazorCoreGenerate.cache
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\obj\Debug\net5.0\Admin.Server.RazorTargetAssemblyInfo.cache
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\obj\Debug\net5.0\Admin.Server.RazorTargetAssemblyInfo.cs
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\obj\Debug\net5.0\Admin.Server.Views.pdb
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\obj\Debug\net5.0\Admin.Server.csproj.CopyComplete
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\obj\Debug\net5.0\Admin.Server.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\obj\Debug\net5.0\ref\Admin.Server.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\obj\Debug\net5.0\Admin.Server.pdb
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\server\obj\Debug\net5.0\Admin.Server.genruntimeconfig.cache

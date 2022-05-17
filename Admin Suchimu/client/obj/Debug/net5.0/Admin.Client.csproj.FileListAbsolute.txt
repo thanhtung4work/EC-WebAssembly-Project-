@@ -1,0 +1,1962 @@
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\blazor.boot.json
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\Admin.Client.StaticWebAssets.xml
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\Admin.Client.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\Admin.Client.pdb
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Admin.Client.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Admin.Client.pdb
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\blazor.webassembly.js
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Http.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Radzen.Blazor.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Dynamic.Core.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\icudt.dat.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.17.js.gz
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Http.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Radzen.Blazor.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Dynamic.Core.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\icudt.dat
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat
+C:\Users\hieu0\Desktop\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.17.js
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\Admin.Client.csproj.AssemblyReference.cache
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\Admin.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\Admin.Client.AssemblyInfoInputs.cache
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\Admin.Client.AssemblyInfo.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\Admin.Client.csproj.CoreCompileInputs.cache
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\Admin.Client.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\Admin.Client.RazorComponent.input.cache
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\Pages\AddCategory.razor.g.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\Pages\AddGame.razor.g.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\Pages\AddStat.razor.g.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\Pages\AddStudio.razor.g.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\Pages\Categories.razor.g.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\Pages\EditCategory.razor.g.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\Pages\EditGame.razor.g.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\Pages\EditStat.razor.g.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\Pages\EditStudio.razor.g.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\Pages\Games.razor.g.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\Pages\Stats.razor.g.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\Pages\Studios.razor.g.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\Shared\LoginLayout.razor.g.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\Admin.Client.RazorComponent.output.cache
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\Admin.Client.dll
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\Admin.Client.TagHelpers.input.cache
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\Admin.Client.TagHelpers.output.cache
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\Admin.Client.RazorCoreGenerate.cache
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\Razor\Pages\AddCategory.razor.g.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\Razor\Pages\AddGame.razor.g.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\Razor\Pages\AddStat.razor.g.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\Razor\Pages\AddStudio.razor.g.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\Razor\Pages\Categories.razor.g.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\Razor\Pages\EditCategory.razor.g.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\Razor\Pages\EditGame.razor.g.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\Razor\Pages\EditStat.razor.g.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\Razor\Pages\EditStudio.razor.g.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\Razor\Pages\Games.razor.g.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\Razor\Pages\Stats.razor.g.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\Razor\Pages\Studios.razor.g.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\Razor\Shared\LoginLayout.razor.g.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\NXCsGX12.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\Tq5ORZRe.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\aeJQu5Sw.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\cAPiSn1T.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\TZNo2S++.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\kahE9g1J.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\JR7XDmf5.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\q+DitJGd.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\k8YsbNPx.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\CTdXdcyl.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\6mHZ11y2.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\ILadgLvi.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\qVjgKr4U.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\8pbq6lu7.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\8o+6lhHw.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\yT6efHnW.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\cx+nprsz.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\xmseTbwQ.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\VLUd9cT4.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\TjyGDokg.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\+g7jn53R.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\qua1Bbc4.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\Yz0aziYv.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\5Tg+k0Qt.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\1JLwOW4H.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\Xl22jUZb.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\7+67bYB7.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\vf1yeHjm.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\AWxAQc2Y.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\66tQcdkY.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\yTOA+c1X.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\lOJisyY4.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\NNrXtrSV.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\W0I2gWZ0.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\J7kPwr9I.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\OGIcbL9d.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\XmTOm559.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\dVSVk7cp.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\aAUpHqFl.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\6g6yCO6T.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\PLO+jhWp.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\kkT84l0i.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\H2xQEzMD.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\RyJKU+4U.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\HSfRKKzL.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\1GLvei3p.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\dReb2CLU.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\sYALRZcm.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\LbD5InNZ.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\RHV5H5KG.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\byB6gGqO.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\y5rNTo6Q.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\FznQ2HrP.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\V+D1cdeT.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\pj5VM658.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\+A68Ihrc.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\BXIf+D0t.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\Bluc12C0.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\MzJ2n4wk.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\U3OcEQmf.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\gB9w4Q6K.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\NT4nVjN4.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\jdhI0WgT.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\YmxGBRqf.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\LCyO6TQT.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\UL9ctFZS.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\bUQtw1L3.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\QfGwXiku.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\tm0yycEN.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\JpxAhHE2.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\mEPQ5jxi.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\vhVx35me.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\vzlttICZ.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\NsVR8YPF.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\na0ya0nE.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\hVZpDGAr.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\U3J7Np5H.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\f1H8Nlib.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\3Q48c7WL.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\aY7O+Vs8.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\pYdqgZjd.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\eRwWemuy.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\TOjmUtd0.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\reZQRajX.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\pNRbp0Ge.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\Ft4FabBJ.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\mUhJf4qP.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\WTbwTdEL.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\V3f5R2zb.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\HADRmAih.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\P6C9apLT.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\YQ3Ol+ha.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\ZkoarAQW.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\r6nu5ZVP.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\uXzsPj5A.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\zNJId3oL.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\mTTEpvvW.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\CEOrPANv.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\GSyafs+9.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\POR91anZ.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\w9TwLLmF.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\5GxlfBZE.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\IouKnvGe.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\gUmZn0Y3.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\A5fFbZ5r.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\NSWNf4zA.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\ZgVu+oHu.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\CvKlbQFM.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\TOo0LpUh.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\V3QRZPQN.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\RZ2i3zOb.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\Utr4whDg.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\Kzysh4mG.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\mIL1MVaN.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\lSOe7+jc.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\2+JwDZ9Q.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\ichrDbGe.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\L1rjRW5f.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\pniaL8Ru.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\jj3OGoRa.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\Cuoweiqm.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\t3S+ljYI.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\bioROCfg.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\gZ+dMn05.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\fFIm2VNT.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\ga8iJQCn.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\aziwhCm2.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\lZwIaMxU.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\DXF8XejV.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\pVs1aDkH.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\E73Ukga3.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\FX7Rq5a9.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\wYlPvsy7.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\gvJDWlsz.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\3yFGLAt2.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\0CY+M+V4.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\k3E3Fc6K.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\MbQLlUhy.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\5YNVpQxT.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\99VWWnIJ.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\QxWZDBS0.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\g2aYB1me.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\Ml7vXTGG.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\Ca6uj4U2.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\qh7utl5+.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\ktreNYx2.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\4Ba1QlwY.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\an97JN0A.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\hFM1tPag.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\8ROp4m+q.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\PbhheiiW.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\mp+oIm+Z.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\xWY3WO1+.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\ENHV05x2.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\MCQIaUJ6.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\bCclC1jS.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\jhukb5Sw.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\9+gKZEwC.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\4PjexQ3Q.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\pOoBzMfG.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\VB3TnAxm.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\wyAb+rP2.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\kubWay9d.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\IcjO5MF7.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\Lo+q7Ii6.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\qrK7J8AD.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\TkbNRqqs.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\VYP7bL9I.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\L2h1mvW6.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\OgtsV+Dy.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\Ela03CFI.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\lXcNuklW.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\B57kYalr.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\aseTT+dt.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\4zUm+uqv.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\n5q8CG6M.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\L7IyqPxs.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\6uHHp1NR.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\c93JsSZS.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\VLGSDnkn.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\NYAmKPxg.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\7n2er3Xi.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\HExvEtlN.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\yTK0i7zI.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\qcrfAfkG.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\FAlXWPXP.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\XC7JhyLB.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\KaIsGeH0.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\nH0O0qYx.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\L4nlpBn4.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\+32JHku6.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\OJiij7Sy.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\cnjetjhs.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\7Pv2IpAZ.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\xxIZrIRM.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\3FNKxyfw.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\QwhziDMc.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\build-gz\kXt0WvTj.gz
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\scopedcss\bundle\Admin.Client.styles.css
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\staticwebassets\Admin.Client.StaticWebAssets.Manifest.cache
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\staticwebassets\Admin.Client.StaticWebAssets.xml
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\Admin.Client.RazorTargetAssemblyInfo.cache
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\Admin.Client.csproj.CopyComplete
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\Admin.Client.dll
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\refint\Admin.Client.dll
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\Admin.Client.pdb
+C:\Users\hieu0\Desktop\admin_EC\client\obj\Debug\net5.0\ref\Admin.Client.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\blazor.boot.json
+D:\Projects\admin_EC\client\bin\Debug\net5.0\Admin.Client.StaticWebAssets.xml
+D:\Projects\admin_EC\client\bin\Debug\net5.0\Admin.Client.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\ref\Admin.Client.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\Admin.Client.pdb
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Admin.Client.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Admin.Client.pdb
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\blazor.webassembly.js
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Http.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Radzen.Blazor.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Dynamic.Core.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\icudt.dat.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.14.js.gz
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Http.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Radzen.Blazor.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Dynamic.Core.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\icudt.dat
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat
+D:\Projects\admin_EC\client\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.14.js
+D:\Projects\admin_EC\client\obj\Debug\net5.0\Admin.Client.csproj.AssemblyReference.cache
+D:\Projects\admin_EC\client\obj\Debug\net5.0\Admin.Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\admin_EC\client\obj\Debug\net5.0\Admin.Client.AssemblyInfoInputs.cache
+D:\Projects\admin_EC\client\obj\Debug\net5.0\Admin.Client.AssemblyInfo.cs
+D:\Projects\admin_EC\client\obj\Debug\net5.0\Admin.Client.csproj.CoreCompileInputs.cache
+D:\Projects\admin_EC\client\obj\Debug\net5.0\Admin.Client.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\admin_EC\client\obj\Debug\net5.0\Admin.Client.RazorComponent.input.cache
+D:\Projects\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+D:\Projects\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\Pages\AddCategory.razor.g.cs
+D:\Projects\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\Pages\AddGame.razor.g.cs
+D:\Projects\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\Pages\AddStat.razor.g.cs
+D:\Projects\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\Pages\AddStudio.razor.g.cs
+D:\Projects\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\Pages\Categories.razor.g.cs
+D:\Projects\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\Pages\EditCategory.razor.g.cs
+D:\Projects\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\Pages\EditGame.razor.g.cs
+D:\Projects\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\Pages\EditStat.razor.g.cs
+D:\Projects\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\Pages\EditStudio.razor.g.cs
+D:\Projects\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\Pages\Games.razor.g.cs
+D:\Projects\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\Pages\Stats.razor.g.cs
+D:\Projects\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\Pages\Studios.razor.g.cs
+D:\Projects\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\Shared\LoginLayout.razor.g.cs
+D:\Projects\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\Projects\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+D:\Projects\admin_EC\client\obj\Debug\net5.0\Admin.Client.RazorComponent.output.cache
+D:\Projects\admin_EC\client\obj\Debug\net5.0\RazorDeclaration\Admin.Client.dll
+D:\Projects\admin_EC\client\obj\Debug\net5.0\Admin.Client.TagHelpers.input.cache
+D:\Projects\admin_EC\client\obj\Debug\net5.0\Admin.Client.TagHelpers.output.cache
+D:\Projects\admin_EC\client\obj\Debug\net5.0\Admin.Client.RazorCoreGenerate.cache
+D:\Projects\admin_EC\client\obj\Debug\net5.0\Razor\App.razor.g.cs
+D:\Projects\admin_EC\client\obj\Debug\net5.0\Razor\Pages\AddCategory.razor.g.cs
+D:\Projects\admin_EC\client\obj\Debug\net5.0\Razor\Pages\AddGame.razor.g.cs
+D:\Projects\admin_EC\client\obj\Debug\net5.0\Razor\Pages\AddStat.razor.g.cs
+D:\Projects\admin_EC\client\obj\Debug\net5.0\Razor\Pages\AddStudio.razor.g.cs
+D:\Projects\admin_EC\client\obj\Debug\net5.0\Razor\Pages\Categories.razor.g.cs
+D:\Projects\admin_EC\client\obj\Debug\net5.0\Razor\Pages\EditCategory.razor.g.cs
+D:\Projects\admin_EC\client\obj\Debug\net5.0\Razor\Pages\EditGame.razor.g.cs
+D:\Projects\admin_EC\client\obj\Debug\net5.0\Razor\Pages\EditStat.razor.g.cs
+D:\Projects\admin_EC\client\obj\Debug\net5.0\Razor\Pages\EditStudio.razor.g.cs
+D:\Projects\admin_EC\client\obj\Debug\net5.0\Razor\Pages\Games.razor.g.cs
+D:\Projects\admin_EC\client\obj\Debug\net5.0\Razor\Pages\Stats.razor.g.cs
+D:\Projects\admin_EC\client\obj\Debug\net5.0\Razor\Pages\Studios.razor.g.cs
+D:\Projects\admin_EC\client\obj\Debug\net5.0\Razor\Shared\LoginLayout.razor.g.cs
+D:\Projects\admin_EC\client\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+D:\Projects\admin_EC\client\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\6BlUz4vp.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\oUy9GYtT.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\1fxxeVWC.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\2yK4J3ET.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\7cGhk5aB.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\w0tVdSjF.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\6LM+lSRy.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\ksfy+HWs.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\stQDFUPk.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\za5DVXAq.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\lTZCbfWI.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\qAaSVNFC.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\KUGlS47o.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\s+UflMGc.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\6fxwH77P.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\8F4SuEuI.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\21BLtypq.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\kv0OeGeR.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\o9W5iHYJ.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\lwUx+iJN.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\wc2iNZDy.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\nXMttBb7.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\gRoVf4an.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\+oMnOBLo.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\tZfw+fRU.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\ZM2qvIqY.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\D6iurzUZ.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\YZkpN5tp.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\Bot28Jql.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\OX1HPhdI.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\n+HMw5Cd.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\VwWfC3AP.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\0zHEIRI3.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\sPyZj1af.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\9B4RjQsD.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\mXSZ17R1.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\3n+dqBKE.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\Mw3AdDJ0.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\1X+d0qzy.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\mZuX+r4s.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\Vr3ukv7e.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\u1Ny2PFK.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\9gSBASIS.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\q9ZK76l+.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\Dif9YYFP.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\1hfOYmG6.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\O+PUNK6b.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\Z4bAaayP.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\x2WPbwIJ.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\vVfP5OM2.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\JdTyF8mI.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\MBmVcS9v.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\CRd6CsaU.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\Qkq+GhP5.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\mWw0zwgX.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\1z5x86sK.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\y5bWNec0.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\ePSyHMXp.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\STnDUFek.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\XcqzxedZ.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\7dCD2RAB.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\Ts7Wn69U.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\xmAgLtci.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\lF+ZoNon.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\5A2OOaM6.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\N2lhl2wq.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\3+2Ewbml.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\ERd+WBj3.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\QNNkfhrm.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\WEjrbQeg.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\BxXV+na4.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\dM1pZURH.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\6a5L9fZM.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\8Hfsq47U.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\93n9qmEc.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\UqNpJYS7.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\Fg8ckZDj.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\QeZZxeDO.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\BQCCZtGc.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\FgeoJNh+.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\bMd+6zPA.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\Lzw4uJiQ.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\ZeGTNTDC.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\smAqz6Tb.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\QJC6I0DU.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\e5pGC1yE.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\OQ+x5S2j.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\iIrTWx7L.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\69qvhHCE.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\2+vhL5+e.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\4ysSaEH6.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\b8nqUETZ.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\xC2oW7zz.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\zgThGee9.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\JGrNOhMq.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\qkO4aolf.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\HhVMu+M6.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\ueBowEUP.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\85DvCyxR.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\qZBk3Bcw.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\Sy9PS8bR.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\Gx4twj2z.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\dww5wGID.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\h0+Wx4Zi.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\LddUGSgh.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\j5JMwJKu.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\gI5n6EWL.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\zSP3mJW4.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\gl05NRH0.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\hu41u9Za.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\3njx3lfi.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\rjuhNOUc.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\JnXckv2Q.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\Fsk8kWjc.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\kMLXI+BH.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\Yfq003SX.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\XDbaKyOR.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\9wAF71b1.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\pKjQZBYE.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\KP0OxpTn.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\BCqQtzvU.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\7sLupcwY.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\SWmGYQL2.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\3Bb+xY38.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\34jeDE45.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\CzlCyWHx.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\VG1RGPUX.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\Cj4UnGGM.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\KT1HfmXp.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\6eHiTv8L.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\XUNyWHHn.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\+AUtyjfP.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\21RQRYWl.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\OMCQsfBr.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\cpW+sDzy.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\Gh5ShIDW.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\l1nkM+Wc.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\V5FmyIKw.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\NfCVOXZ7.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\8QZsWfsu.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\L4Mu87FU.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\b1Uc+9KH.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\NBF+kbwS.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\UnWAZWEd.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\Uk0weld2.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\8IZTsFK2.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\S4yhg9ey.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\5ceuPuud.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\707WhkpB.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\65VylVa+.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\xkbNrIIF.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\PVqFM8d1.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\hLou7V87.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\ij6yB8F8.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\mhnpB16B.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\oweSx0Ek.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\BdCqGSFe.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\7SReJo9n.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\xyLlZTVR.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\cDZ1zWyj.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\VjlxnFab.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\M6Pbj3cB.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\BVeuGcEz.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\R0URR9y2.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\glIBo27G.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\6G+WKcde.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\3WW7Q4wg.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\byRIX9mH.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\RKQ6vPOW.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\E9T8CgA3.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\3wlnYOru.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\bmr+tlf4.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\qJdyltpt.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\uvHfV2EP.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\KUoDx1PS.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\3S5PCk1u.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\pA+f+in5.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\19hfecB+.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\m2sMA7k3.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\iAQeEAGx.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\U2kzNBQi.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\aHrNH84V.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\QzUTPb+W.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\OtkKTDjr.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\cfdSncUo.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\oJxWVfUx.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\N2agMgll.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\UqLXAlqD.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\1om42RCz.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\eKHPECra.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\KHuwsYQd.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\Vp5AC6nt.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\30v1JCX2.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\uYPUKQdD.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\Z+RUuvrl.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\t09dAFtg.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\vI56s0GK.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\build-gz\aX02X5Nm.gz
+D:\Projects\admin_EC\client\obj\Debug\net5.0\staticwebassets\Admin.Client.StaticWebAssets.Manifest.cache
+D:\Projects\admin_EC\client\obj\Debug\net5.0\staticwebassets\Admin.Client.StaticWebAssets.xml
+D:\Projects\admin_EC\client\obj\Debug\net5.0\scopedcss\bundle\Admin.Client.styles.css
+D:\Projects\admin_EC\client\obj\Debug\net5.0\Admin.Client.RazorTargetAssemblyInfo.cache
+D:\Projects\admin_EC\client\obj\Debug\net5.0\Admin.Client.csproj.CopyComplete
+D:\Projects\admin_EC\client\obj\Debug\net5.0\Admin.Client.dll
+D:\Projects\admin_EC\client\obj\Debug\net5.0\ref\Admin.Client.dll
+D:\Projects\admin_EC\client\obj\Debug\net5.0\Admin.Client.pdb
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\blazor.boot.json
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\Admin.Client.StaticWebAssets.xml
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\Admin.Client.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\ref\Admin.Client.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\Admin.Client.pdb
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\Admin.Client.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\Admin.Client.pdb
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\blazor.webassembly.js
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Http.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\Radzen.Blazor.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Dynamic.Core.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\icudt.dat.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.14.js.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Http.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\Radzen.Blazor.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Dynamic.Core.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\icudt.dat
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.14.js
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\Admin.Client.csproj.AssemblyReference.cache
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\Admin.Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\Admin.Client.AssemblyInfoInputs.cache
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\Admin.Client.AssemblyInfo.cs
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\Admin.Client.csproj.CoreCompileInputs.cache
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\Admin.Client.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\Admin.Client.RazorComponent.input.cache
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\RazorDeclaration\Pages\AddCategory.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\RazorDeclaration\Pages\AddGame.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\RazorDeclaration\Pages\AddStat.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\RazorDeclaration\Pages\AddStudio.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\RazorDeclaration\Pages\Categories.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\RazorDeclaration\Pages\EditCategory.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\RazorDeclaration\Pages\EditGame.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\RazorDeclaration\Pages\EditStat.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\RazorDeclaration\Pages\EditStudio.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\RazorDeclaration\Pages\Games.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\RazorDeclaration\Pages\Stats.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\RazorDeclaration\Pages\Studios.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\RazorDeclaration\Shared\LoginLayout.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\Admin.Client.RazorComponent.output.cache
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\RazorDeclaration\Admin.Client.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\Admin.Client.TagHelpers.input.cache
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\Admin.Client.TagHelpers.output.cache
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\Admin.Client.RazorCoreGenerate.cache
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\Razor\App.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\Razor\Pages\AddCategory.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\Razor\Pages\AddGame.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\Razor\Pages\AddStat.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\Razor\Pages\AddStudio.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\Razor\Pages\Categories.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\Razor\Pages\EditCategory.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\Razor\Pages\EditGame.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\Razor\Pages\EditStat.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\Razor\Pages\EditStudio.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\Razor\Pages\Games.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\Razor\Pages\Stats.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\Razor\Pages\Studios.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\Razor\Shared\LoginLayout.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\6BlUz4vp.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\oUy9GYtT.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\1fxxeVWC.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\2yK4J3ET.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\7cGhk5aB.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\w0tVdSjF.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\6LM+lSRy.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\ksfy+HWs.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\stQDFUPk.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\za5DVXAq.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\lTZCbfWI.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\qAaSVNFC.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\KUGlS47o.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\s+UflMGc.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\6fxwH77P.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\8F4SuEuI.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\21BLtypq.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\kv0OeGeR.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\o9W5iHYJ.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\lwUx+iJN.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\wc2iNZDy.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\nXMttBb7.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\gRoVf4an.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\+oMnOBLo.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\tZfw+fRU.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\ZM2qvIqY.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\D6iurzUZ.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\YZkpN5tp.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\Bot28Jql.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\OX1HPhdI.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\n+HMw5Cd.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\VwWfC3AP.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\0zHEIRI3.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\sPyZj1af.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\9B4RjQsD.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\mXSZ17R1.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\3n+dqBKE.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\Mw3AdDJ0.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\1X+d0qzy.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\mZuX+r4s.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\Vr3ukv7e.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\u1Ny2PFK.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\9gSBASIS.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\q9ZK76l+.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\Dif9YYFP.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\1hfOYmG6.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\O+PUNK6b.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\Z4bAaayP.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\x2WPbwIJ.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\vVfP5OM2.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\JdTyF8mI.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\MBmVcS9v.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\CRd6CsaU.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\Qkq+GhP5.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\mWw0zwgX.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\1z5x86sK.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\y5bWNec0.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\ePSyHMXp.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\STnDUFek.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\XcqzxedZ.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\7dCD2RAB.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\Ts7Wn69U.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\xmAgLtci.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\lF+ZoNon.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\5A2OOaM6.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\N2lhl2wq.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\3+2Ewbml.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\ERd+WBj3.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\QNNkfhrm.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\WEjrbQeg.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\BxXV+na4.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\dM1pZURH.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\6a5L9fZM.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\8Hfsq47U.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\93n9qmEc.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\UqNpJYS7.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\Fg8ckZDj.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\QeZZxeDO.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\BQCCZtGc.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\FgeoJNh+.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\bMd+6zPA.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\Lzw4uJiQ.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\ZeGTNTDC.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\smAqz6Tb.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\QJC6I0DU.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\e5pGC1yE.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\OQ+x5S2j.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\iIrTWx7L.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\69qvhHCE.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\2+vhL5+e.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\4ysSaEH6.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\b8nqUETZ.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\xC2oW7zz.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\zgThGee9.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\JGrNOhMq.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\qkO4aolf.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\HhVMu+M6.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\ueBowEUP.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\85DvCyxR.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\qZBk3Bcw.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\Sy9PS8bR.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\Gx4twj2z.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\dww5wGID.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\h0+Wx4Zi.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\LddUGSgh.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\j5JMwJKu.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\gI5n6EWL.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\zSP3mJW4.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\gl05NRH0.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\hu41u9Za.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\3njx3lfi.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\rjuhNOUc.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\JnXckv2Q.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\Fsk8kWjc.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\kMLXI+BH.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\Yfq003SX.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\XDbaKyOR.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\9wAF71b1.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\pKjQZBYE.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\KP0OxpTn.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\BCqQtzvU.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\7sLupcwY.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\SWmGYQL2.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\3Bb+xY38.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\34jeDE45.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\CzlCyWHx.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\VG1RGPUX.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\Cj4UnGGM.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\KT1HfmXp.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\6eHiTv8L.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\XUNyWHHn.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\+AUtyjfP.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\21RQRYWl.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\OMCQsfBr.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\cpW+sDzy.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\Gh5ShIDW.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\l1nkM+Wc.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\V5FmyIKw.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\NfCVOXZ7.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\8QZsWfsu.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\L4Mu87FU.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\b1Uc+9KH.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\NBF+kbwS.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\UnWAZWEd.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\Uk0weld2.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\8IZTsFK2.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\S4yhg9ey.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\5ceuPuud.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\707WhkpB.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\65VylVa+.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\xkbNrIIF.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\PVqFM8d1.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\hLou7V87.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\ij6yB8F8.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\mhnpB16B.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\oweSx0Ek.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\BdCqGSFe.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\7SReJo9n.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\xyLlZTVR.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\cDZ1zWyj.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\VjlxnFab.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\M6Pbj3cB.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\BVeuGcEz.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\R0URR9y2.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\glIBo27G.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\6G+WKcde.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\3WW7Q4wg.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\byRIX9mH.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\RKQ6vPOW.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\E9T8CgA3.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\3wlnYOru.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\bmr+tlf4.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\qJdyltpt.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\uvHfV2EP.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\KUoDx1PS.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\3S5PCk1u.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\pA+f+in5.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\19hfecB+.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\m2sMA7k3.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\iAQeEAGx.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\U2kzNBQi.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\aHrNH84V.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\QzUTPb+W.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\OtkKTDjr.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\cfdSncUo.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\oJxWVfUx.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\N2agMgll.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\UqLXAlqD.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\1om42RCz.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\eKHPECra.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\KHuwsYQd.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\Vp5AC6nt.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\30v1JCX2.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\uYPUKQdD.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\Z+RUuvrl.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\t09dAFtg.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\vI56s0GK.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\build-gz\6DqtzJWZ.gz
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\staticwebassets\Admin.Client.StaticWebAssets.Manifest.cache
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\staticwebassets\Admin.Client.StaticWebAssets.xml
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\scopedcss\bundle\Admin.Client.styles.css
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\Admin.Client.RazorTargetAssemblyInfo.cache
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\Admin.Client.csproj.CopyComplete
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\Admin.Client.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\ref\Admin.Client.dll
+D:\Projects\Suchimu Blazor WebAssembly\Admin Suchimu\client\obj\Debug\net5.0\Admin.Client.pdb
