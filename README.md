@@ -7,6 +7,12 @@
 * Image: Hình ảnh về website
 * Video: video hoạt động của website
 
+### Video
+Admin: https://youtu.be/7x4il8Azji0
+[![Watch the video]](https://youtu.be/7x4il8Azji0)
+Customer: https://youtu.be/uXJzfnkaw-M
+[![Watch the video]](https://youtu.be/uXJzfnkaw-M)
+
 ### Một số hình ảnh
 ![Website image demo](./Image/Index.png?raw=true "Title")
 ![Website image demo](./Image/Details.png?raw=true "Title")
