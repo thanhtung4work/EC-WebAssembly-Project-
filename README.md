@@ -1,11 +1,15 @@
 # Đồ án thương mại điện tử nhóm 2 - DCT1196
 ## Đề tài: Website bán game trực tuyến
 
+### Thành Viên
+1. Trần Thanh Tùng - MSSV: 3119410479
+2. Nguyễn Trần Văn Vũ - MSSV: 3119410494
+3. Minh Hiếu Calan Tog - MSSV: 3119410439
+
 ### Cấu trúc thư mục
 * Suchimu: Mã nguồn website dành cho khách hàng đến thăm
 * Suchimu Admin: Mã nguồn website dành cho người quản trị (admin)
 * Image: Hình ảnh về website
-* Video: video hoạt động của website
 
 ### Video
 #### Admin: https://youtu.be/7x4il8Azji0
